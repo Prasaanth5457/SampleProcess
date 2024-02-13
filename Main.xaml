@@ -74,7 +74,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <Delay Duration="00:00:10" sap:VirtualizedContainerService.HintSize="388,92" sap2010:WorkflowViewState.IdRef="Delay_1" />
-    <ui:LogMessage DisplayName="Log Message by Dev1" sap:VirtualizedContainerService.HintSize="388,145" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;Sample Process Dev1&quot;]" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" Buttons="Ok" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="388,87" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Done&quot;]" />
+    <ui:LogMessage DisplayName="Log Message by Dev2" sap:VirtualizedContainerService.HintSize="388,145" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;Sample Process Dev1&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" Buttons="Ok" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="388,87" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Changes by DEV 2&quot;]" />
   </Sequence>
 </Activity>
